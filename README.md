@@ -1,6 +1,6 @@
 # JokeWebsite
 
-#Membuat Web Joke sederhana menggunakan Teknologi:
+# Membuat Web Joke sederhana menggunakan Teknologi:
 - HTML5
 - Vanilla CSS
 - Vanilla JavaScript
